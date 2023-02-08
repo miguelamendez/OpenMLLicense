@@ -1,4 +1,4 @@
-# OpenMLicense
+# OpenMLLicense
 A license to enforce FOSS ML learning models if your data and FOSS models are used to train them
 ##The license.
 This is the first version of the license.
